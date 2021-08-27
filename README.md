@@ -24,7 +24,7 @@ For now its subreddits are
          </p>
 </a>
 
-The bot is hosted in https://replit.com/ and pinged by an external website constantly so it is 
+The bot is hosted in https://replit.com/ and pinged constantly by an external website constantly so it is 
  ### Always online! 
 
 Will had the feature to add subreddits of your own as well as to remove the ones saved through discord commands in a later version.
