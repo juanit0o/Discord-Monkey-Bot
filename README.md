@@ -17,8 +17,12 @@ For now its subreddits are
 * terriblefacebookmemes
 * funny
 
-Invite my boy MonkeyBot for your server:
-https://discord.com/api/oauth2/authorize?client_id=880865666708701226&permissions=259846043712&scope=bot
+# <p align="center"> Invite my boy MonkeyBot for your server </p>
+<a href="https://discord.com/api/oauth2/authorize?client_id=880865666708701226&permissions=259846043712&scope=bot">
+         <p align="center">
+          <img src="https://i.imgur.com/5ExxUUc.png" width="50" height="50" alt="Layout of the website">
+         </p>
+</a>
 
 The bot is hosted in https://replit.com/ and pinged by an external website constantly so it is 
  ### Always online! 
