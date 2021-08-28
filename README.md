@@ -59,12 +59,12 @@ Apart from the API that is fetching the reddit images, it is also using the PRAW
 
 * Drop the subreddits inside the database and reset to the default ones mentioned above
 <p align="center">
-          <img src="https://i.imgur.com/e4HCK87.png" width="650" height="400" alt="Layout of the website">
+          <img src="https://i.imgur.com/e4HCK87.png" width="700" height="400" alt="Layout of the website">
          </p>
 
 * Help command to show the available commands
 <p align="center">
-          <img src="https://i.imgur.com/iE3aBF7.png" width="600" height="200" alt="Layout of the website">
+          <img src="https://i.imgur.com/iE3aBF7.png" width="630" height="200" alt="Layout of the website">
          </p>
 
 
